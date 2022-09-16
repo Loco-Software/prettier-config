@@ -1,6 +1,6 @@
 {
   "name": "@loco-software/prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Prettier Config used at Loco Software",
   "main": "index.js",
   "repository": {
