@@ -1,0 +1,19 @@
+{
+  "name": "@loco-software/prettier-config",
+  "version": "1.0.2",
+  "description": "Prettier Config used at Loco Software",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Loco-Software/prettier-config.git"
+  },
+  "keywords": [
+    "prettier"
+  ],
+  "author": "Loco Software",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Loco-Software/prettier-config/issues"
+  },
+  "homepage": "https://github.com/Loco-Software/prettier-config#readme"
+}
